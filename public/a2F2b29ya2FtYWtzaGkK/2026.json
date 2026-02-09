@@ -18,8 +18,40 @@
     "2026-03-10" : {"label": "Phalguna Krishna Saptami", "desc": ""},
     "2026-03-19" : {"label": "Phalguna Amavasya", "desc": ""},
     "2026-03-25" : {"label": "Chaitra Shukla Saptami", "desc": ""},
-    "2026-03-27" : {"label": "Chaitra Shukla Navami", "desc": ""},
-  
+    "2026-03-27" : {"label": "Chaitra Shukla Navami (Rama Navami)", "desc": ""},
+
+
+    "2026-04-04" : {"label": "Chaitra Krishna Bidige (Shikara Kalash Pratishta Vardanti)", "desc": ""},
+    "2026-04-09" : {"label": "Chaitra Krishna Saptami", "desc": ""},
+    "2026-04-17" : {"label": "Chaitra Amavasya", "desc": ""},
+    "2026-04-19" : {"label": "Vaishakha Shukla Trutiya (Akshay Tadige Utsav)", "desc": ""},
+    "2026-04-23" : {"label": "Vaishakha Shukla Saptami (Navagraha Vardanti)", "desc": ""},
+
+    
+    "2026-05-09" : {"label": "Vaishakha Krishna Saptami", "desc": ""},
+    "2026-05-16" : {"label": "Vaishakha Amavasya", "desc": ""},
+    "2026-05-23" : {"label": "Adhik Jestha Shukla Saptami", "desc": ""},
+
+    
+    "2026-06-07" : {"label": "Adhik Jestha Krishna Saptami", "desc": ""},
+    "2026-06-15" : {"label": "Adhik Jestha Amavasya", "desc": ""},
+    "2026-06-18" : {"label": "Nija Jestha Shukla Chaturthi", "desc": ""},
+    "2026-06-21" : {"label": "Nija Jestha Shukla Saptami", "desc": ""},
+
+    "2026-07-07" : {"label": "Nija Jestha Krishna Saptami", "desc": ""},
+    "2026-07-14" : {"label": "Nija Jestha Amavasya", "desc": ""},
+    "2026-07-20" : {"label": "Aashad Shukla Saptami", "desc": ""},
+    
+    "2026-08-05" : {"label": "Aashad Krishna Saptami", "desc": ""},
+    "2026-08-12" : {"label": "Aashad Amavasya", "desc": ""},
+    "2026-08-19" : {"label": "Shravana Shukla Saptami (Durga Pooja)", "desc": ""},
+    "2026-08-23" : {"label": "Shravana Shukla Ekadashi (Bhajan Evening)", "desc": ""},
+    "2026-08-25" : {"label": "Shravana Shukla Trayodashi", "desc": ""},
+
+    "2026-09-03" : {"label": "Shravana Krishna Saptami", "desc": ""},
+    "2026-09-09" : {"label": "Pushpa Pooja", "desc": ""},
+    "2026-09-11" : {"label": "Shravana Amavasya", "desc": ""},
+    "2026-09-28" : {"label": "Bhadrapad Shukla Saptami (No Darshan Vichar)", "desc": ""},
 
 
   }
