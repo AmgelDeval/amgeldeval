@@ -1,0 +1,28 @@
+{
+  "holidays": {
+    "2026-01-10" : {"label": "Pushya Krishna Saptami", "desc": ""},
+    "2026-01-18" : {"label": "Pushya Amavasya", "desc": ""},
+    "2026-01-25" : {"label": "Magha Shukla Saptami (Rath saptami)", "desc": ""},
+    "2026-01-30" : {"label": "Saptami Program Scheduled", "desc": ""},
+    
+    "2026-02-08" : {"label": "Magha Krishna Saptami", "desc": ""},
+    "2026-02-15" : {"label": "Magha Krishna Trayodashi (Shivaratri)", "desc": ""},
+    "2026-02-17" : {"label": "Magha Amavasya", "desc": ""},
+    
+    "2026-02-21" : {"label": "Phalguna Shukla Chaturthi", "desc": ""},
+    "2026-02-22" : {"label": "Phalguna Shukla Panchami", "desc": ""},
+    "2026-02-23" : {"label": "Phalguna Shukla Shasti", "desc": ""},
+    "2026-02-24" : {"label": "Phalguna Shukla Saptami", "desc": ""},
+
+    
+    "2026-03-10" : {"label": "Phalguna Krishna Saptami", "desc": ""},
+    "2026-03-19" : {"label": "Phalguna Amavasya", "desc": ""},
+    "2026-03-25" : {"label": "Chaitra Shukla Saptami", "desc": ""},
+    "2026-03-27" : {"label": "Chaitra Shukla Navami", "desc": ""},
+  
+
+
+  }
+
+
+}
