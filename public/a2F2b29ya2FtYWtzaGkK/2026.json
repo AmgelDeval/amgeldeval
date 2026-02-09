@@ -51,7 +51,27 @@
     "2026-09-03" : {"label": "Shravana Krishna Saptami", "desc": ""},
     "2026-09-09" : {"label": "Pushpa Pooja", "desc": ""},
     "2026-09-11" : {"label": "Shravana Amavasya", "desc": ""},
-    "2026-09-28" : {"label": "Bhadrapad Shukla Saptami (No Darshan Vichar)", "desc": ""},
+    "2026-09-18" : {"label": "Bhadrapad Shukla Saptami (No Darshan Vichar)", "desc": ""},
+
+    "2026-10-03" : {"label": "Bhadrapad Krishna Saptami (No Darshan Vichar)", "desc": ""},
+    "2026-10-10" : {"label": "Bhadrapad Amavasya", "desc": ""},
+    "2026-10-11" : {"label": "Ashwin Shukla Pratipada", "desc": ""},
+    "2026-10-15" : {"label": "Ashwin Shukla Panchami", "desc": ""},
+    "2026-10-21" : {"label": "Ashwin Shukla Dashami", "desc": ""},
+    "2026-10-25" : {"label": "Ashwin Shukla Chaturdashi", "desc": ""},
+    "2026-10-26" : {"label": "Ashwin Shukla Poornima", "desc": ""},
+
+    "2026-11-01" : {"label": "Ashwin Krishna Saptami", "desc": ""},
+    "2026-11-09" : {"label": "Ashwin Amavasya", "desc": ""},
+    "2026-11-16" : {"label": "Kartik Shukla Saptami", "desc": ""},
+    "2026-11-24" : {"label": "Kartik Shukla Poornima", "desc": ""},
+    "2026-11-29" : {"label": "Kartik Krishna Sashti", "desc": ""},
+    "2026-11-30" : {"label": "Kartik Krishna Saptami", "desc": ""},
+
+      
+    "2026-12-08" : {"label": "Kartik Amavasya", "desc": ""},
+    "2026-12-16" : {"label": "Margashir Shukla Saptami", "desc": ""},
+    "2026-12-30" : {"label": "Margashir Krishna Saptami", "desc": ""}
 
 
   }
